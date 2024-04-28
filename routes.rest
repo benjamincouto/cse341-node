@@ -1,0 +1,15 @@
+//Localhost
+
+### Get all contacts
+GET http://localhost:3000/contacts
+
+### Get contact by ID
+GET http://localhost:3000/contacts/6338cf4fc51624e0408341bc
+
+//Production
+
+### Get all contacts
+GET https://cse341-node-abes.onrender.com/contacts
+
+### Get contact by ID
+GET https://cse341-node-abes.onrender.com/contacts/6338cf4fc51624e0408341bc
